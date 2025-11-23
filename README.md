@@ -45,7 +45,7 @@ Weekly and Quarterly Performance Trends
 
 Professional UI with consistent theme and clean layout
 
-🖼️ Screenshot / Preview
+🖼️ Preview
 📌 Credit Card Dashboard (Power BI Report)
 
 📈 Insights Gained
